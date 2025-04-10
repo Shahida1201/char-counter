@@ -4,7 +4,7 @@ A simple and responsive React application that counts the number of characters e
 
 ## 🚀 Live Demo
 
-Check out the live version here: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+Check out the live version here: https://char-counter-shahida.vercel.app
 
 ## 📌 Features
 
