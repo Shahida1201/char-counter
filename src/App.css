@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+textarea {
+  width: 80%;
+  height: 150px;
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.counter {
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #333;
+}
